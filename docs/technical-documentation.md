@@ -122,7 +122,7 @@ The stress-energy tensor components represent:
 
 ### 1. LaTeX Document Structure
 
-```latex
+```math
 \section{Einstein Tensor}
 G_{\mu\nu} = \begin{pmatrix}
   G_{00} & G_{01} & G_{02} & G_{03} \\
